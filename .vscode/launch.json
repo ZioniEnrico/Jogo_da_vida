@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Usuario/Jogo_da_vida",
-      "program": "c:/Users/Usuario/Jogo_da_vida/build/Debug/outDebug",
+      "cwd": "c:/Users/enricozioni/Jogo_da_vida",
+      "program": "c:/Users/enricozioni/Jogo_da_vida/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
