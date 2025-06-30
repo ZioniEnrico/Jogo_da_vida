@@ -135,7 +135,7 @@ void menu() {
                 system("cls");
                 return;
             case ESC:
-                printf("Saindo do sistema...\n");
+                printf(".Saindo do sistema...\n");
                 return;
             default:
                 printf("Opção inválida! Tente novamente.\n");
