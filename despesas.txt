@@ -1,3 +1,2 @@
-2;mercado;200,00;D
-1;cigarro;10,00;P
-2;cacha‡a;20,00;P
+1;mercado;800.00;D
+2;Aluguel;600.00;D
